@@ -1,1 +1,15 @@
-
+div{ 
+  backgrounf-color: rgb(171,171,238); 
+  height: 100px; 
+  width: 100px;
+}
+.panel{ 
+  height: 100px; 
+  width: 150px;
+  background-color: rgb(245,138,156); 
+} 
+ .intro{
+   height: 50px; 
+   width: 100px; 
+   background-color: rgb(142, 116, 230; 
+ } 
