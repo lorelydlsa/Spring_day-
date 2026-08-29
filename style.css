@@ -26,8 +26,9 @@ h2{
 }
 
   img.large {
-  width: 800 px;  
-  height:800 px;
+ max-width: 100%;
+  width: 800px;
+  height: auto
 }
   
   
