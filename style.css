@@ -26,10 +26,8 @@ h2{
 }
 
 img.large { 
-  max-width: 100%;
-  width: 100px;
+  max-width: 1000%;
   height: auto;
-  display:block;
   
 }
   
