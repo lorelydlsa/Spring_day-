@@ -27,8 +27,8 @@ h2{
 
 img.large { 
   max-width: 100%;
-  width: 800px;
-  height: auto;
+  width: 1000px;
+  height: 8000;
   transform: scale(3.0);
 }
   
