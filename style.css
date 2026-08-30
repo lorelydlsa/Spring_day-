@@ -26,10 +26,11 @@ h2{
 }
 
 img.large { 
-  max-width: 1000%;
-  width: 1000px;
-  height: 8000;
-  transform: scale(3.0);
+  max-width: 100%;
+  width: 100px;
+  height: auto;
+  display:block;
+  
 }
   
   
